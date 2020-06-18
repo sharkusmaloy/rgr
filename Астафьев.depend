@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1592464088 source:f:\program files\codeblocks\Работы\Астафьев\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<cmath>
+	<algorithm>
+	<queue>
+	<iomanip>
+	<Windows.h>
+
